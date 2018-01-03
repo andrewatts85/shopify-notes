@@ -11,7 +11,7 @@
 * [Google Trends](https://trends.google.com/trends/) can be used to see whats trending upward or downward
 * Using [Amazon](https://www.amazon.com/) + Categories to see what is selling
 * Search [facebook](https://www.facebook.com/) with [keyword + just pay shipping]
-* http://fb-search.com/search/ Another facebook search tool
+* [fb-search](http://fb-search.com/search/) Another facebook search tool
 
 
 # Finding Suppliers
