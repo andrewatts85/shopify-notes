@@ -5,12 +5,14 @@
 
 #### Criteria
 
-* Watchcount MOST WATCHED ITEMS
-* Looking on AliExpress and sorting by orders
-* Looking on Etsy (you can use Etsy products in your store)
-* Using Amazon + Categories to see what is selling
-* Search facebook with [keyword + just pay shipping]
-* http://fb-search.com/search/
+* [Watchcount](http://www.watchcount.com/) MOST WATCHED ITEMS
+* Looking on [AliExpress](https://www.aliexpress.com/) and sorting by orders
+* Looking on [Etsy](https://www.etsy.com/) (you can use Etsy products in your store)
+* [Google Trends](https://trends.google.com/trends/) can be used to see whats trending upward or downward
+* Using [Amazon](https://www.amazon.com/) + Categories to see what is selling
+* Search [facebook](https://www.facebook.com/) with [keyword + just pay shipping]
+* http://fb-search.com/search/ Another facebook search tool
+
 
 # Finding Suppliers
 #### Suppliers
