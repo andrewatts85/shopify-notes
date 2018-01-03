@@ -1,6 +1,7 @@
 # Find Winning Products
 * Don't need to find the next amazing trend!
 * Sell into an already established market
+* Make sure the product is solving a problem or fulfilling a passion
 
 #### Criteria
 
