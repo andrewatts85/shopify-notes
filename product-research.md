@@ -1,4 +1,7 @@
 # Find Winning Products
+* Don't need to find the next amazing trend!
+* Sell into an already established market
+
 #### Criteria
 
 * Watchcount MOST WATCHED ITEMS
