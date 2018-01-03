@@ -10,7 +10,7 @@
 * Looking on [Etsy](https://www.etsy.com/) (you can use Etsy products in your store)
 * [Google Trends](https://trends.google.com/trends/) can be used to see whats trending upward or downward
 * Using [Amazon](https://www.amazon.com/) + Categories to see what is selling
-* Search [Facebook](https://www.facebook.com/) with [keyword + just pay shipping]
+* Search [Facebook](https://www.facebook.com/) with [keyword + sales phrase]
   - bit.ly sale
   - bit.ly free shipping
   - dog just pay shipping
