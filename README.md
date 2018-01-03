@@ -1,2 +1,2 @@
-# shopify-notes
-Useful tips, valuable information.
+# Shopify Notes
+Useful tips and valuable information for reference.
