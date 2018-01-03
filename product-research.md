@@ -11,6 +11,9 @@
 * [Google Trends](https://trends.google.com/trends/) can be used to see whats trending upward or downward
 * Using [Amazon](https://www.amazon.com/) + Categories to see what is selling
 * Search [Facebook](https://www.facebook.com/) with [keyword + just pay shipping]
+  - bit.ly sale
+  - bit.ly free shipping
+  - dog just pay shipping
 * [FB-Search](http://fb-search.com/search/) Another facebook search tool
 
 
