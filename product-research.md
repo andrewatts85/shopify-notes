@@ -33,7 +33,7 @@
 # Pricing Technique 
 #### $20 market
 
-* Buy at $4 or less (from Alieexpress)
+* Buy at $4 or less (from Aliexpress)
 * Sell at $15-20 (on your site)
 * Not too heavy
 * Not too fragile
