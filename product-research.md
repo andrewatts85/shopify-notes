@@ -15,6 +15,7 @@
   - bit.ly free shipping
   - dog just pay shipping
 * [FB-Search](http://fb-search.com/search/) Another facebook search tool
+* [Pexda](https://pexda.com/) Winning products already picked out for you (paid)
 
 
 # Finding Suppliers
