@@ -19,4 +19,3 @@
 * When doing a video ad target people only on wifi
 * Set the budget to $5 a day
 * Let it run to $30. If you don't get a sale, cut the ad and call it a loser
-* 
