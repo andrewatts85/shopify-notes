@@ -1,5 +1,7 @@
 # Shopify Notes
-Useful tips and valuable information for reference.  
+Useful tips and valuable information for reference. 
+
+### DONT MAKE IT TOO COMPLICATED. JUST PICK A PRODUCT. TEST FAST. FAIL FAST.
 
 * [Find Winning Products](product-research.md)  
 * [Valentines Day Stats 2017](valentines-day.md)
