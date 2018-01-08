@@ -9,3 +9,5 @@ Useful tips and valuable information for reference.
 * [Ecomhunt Research Tool](ecomhunt-research-tool.md)
 * [Facebook Research Technique](facebook-research-technique.md)
 * [Four Step Blueprint](four-step-blueprint.md)
+* [Perfect Funnel Flow](perfect-funnel-flow.md)
+* [Facebook Ads](facebook-ads.md)
