@@ -30,3 +30,9 @@
   * These are the best for engagement and getting a TON of people to see your page and posts.
   * This has the LOWEST rate of conversion. They are more than likely NOT to purchase from you or they purchase at a VERY low rate.
   * However this DOES NOT mean they will NOT purchase from you!! Keep in mind this is GREAT to build an audience with that you can retarget with inside of Facebook.
+
+## Retarget Instagram on FB
+* **Increase Your ROI**
+* You can take your instagram page and retarget everyone who engages with it on Facebook
+* Once you build an audience of people who interacted with your page you will be able to create look alike audiences (LAA's)
+* If one of your campaigns does really well you will be able to have TONS of engagers and build a massive retargeting audience that you can push offers to very often.
