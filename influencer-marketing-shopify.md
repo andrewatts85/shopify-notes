@@ -36,3 +36,4 @@
 * You can take your instagram page and retarget everyone who engages with it on Facebook
 * Once you build an audience of people who interacted with your page you will be able to create look alike audiences (LAA's)
 * If one of your campaigns does really well you will be able to have TONS of engagers and build a massive retargeting audience that you can push offers to very often.
+* **Make sure your IG account is a business profile because that will be the only way you can link it up with Facebook**
