@@ -11,3 +11,4 @@ Useful tips and valuable information for reference.
 * [Four Step Blueprint](four-step-blueprint.md)
 * [Perfect Funnel Flow](perfect-funnel-flow.md)
 * [Facebook Ads](facebook-ads.md)
+* [Shopify Apps](shopify-apps.md)
