@@ -23,4 +23,5 @@
   * They are fairly cheaper.
   * Their audience will RAVE about what they are raving about.
   * You can get so much clout (how many people are talking about your brand) for your store. The best part is they have 1-3m followers on average and they will promote you for a few thousand.
+  * **You can reuse their content in your marketing and target their audience on Instagram via the FaceBook power editor.**
 * Type C = These are generic pages. Pages like 'I love basketball'
