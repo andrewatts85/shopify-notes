@@ -13,3 +13,4 @@ Useful tips and valuable information for reference.
 * [Facebook Ads](facebook-ads.md)
 * [Shopify Apps](shopify-apps.md)
 * [Influencer Marketing + Shopify](influencer-marketing-shopify.md)
+* [Scaling Your Store](scaling-your-store.md)
