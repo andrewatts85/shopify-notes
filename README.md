@@ -12,3 +12,4 @@ Useful tips and valuable information for reference.
 * [Perfect Funnel Flow](perfect-funnel-flow.md)
 * [Facebook Ads](facebook-ads.md)
 * [Shopify Apps](shopify-apps.md)
+* [Influencer Marketing + Shopify](influencer-marketing-shopify.md)
