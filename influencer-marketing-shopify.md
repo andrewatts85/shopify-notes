@@ -16,7 +16,7 @@
 
 ## Influencer types
 * Type A = Celebrities such as: Kim K, Drake, LeBron James, etc.
-  * $250k+ for a shout out
+  * **$250k+ for a shout out**
 * Type B = These are micro celebrities such as Jen Selter, and other people with 1-3 million followers that are ONLY famous on Instagram (typically the best but somewhat expensive)
   * **$1k-$4k (IDEAL)**
   * These are the types you want to target because they have MILLIONS of loyal followers.
@@ -25,3 +25,8 @@
   * You can get so much clout (how many people are talking about your brand) for your store. The best part is they have 1-3m followers on average and they will promote you for a few thousand.
   * **You can reuse their content in your marketing and target their audience on Instagram via the FaceBook power editor.**
 * Type C = These are generic pages. Pages like 'I love basketball'
+ * **$40-$100**
+  * Mass pages are not celebrity based but they are just around a certain topic like "basketball" or "dogs".
+  * These are the best for engagement and getting a TON of people to see your page and posts.
+  * This has the LOWEST rate of conversion. They are more than likely NOT to purchase from you or they purchase at a VERY low rate.
+  * However this DOES NOT mean they will NOT purchase from you!! Keep in mind this is GREAT to build an audience with that you can retarget with inside of Facebook.
