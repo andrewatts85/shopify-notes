@@ -25,7 +25,7 @@
   * You can get so much clout (how many people are talking about your brand) for your store. The best part is they have 1-3m followers on average and they will promote you for a few thousand.
   * **You can reuse their content in your marketing and target their audience on Instagram via the FaceBook power editor.**
 * Type C = These are generic pages. Pages like 'I love basketball'
- * **$40-$100**
+  * **$40-$100**
   * Mass pages are not celebrity based but they are just around a certain topic like "basketball" or "dogs".
   * These are the best for engagement and getting a TON of people to see your page and posts.
   * This has the LOWEST rate of conversion. They are more than likely NOT to purchase from you or they purchase at a VERY low rate.
