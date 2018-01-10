@@ -4,3 +4,9 @@
 * Since you already know they are PROVEN to buy you can offer them special deals, redeemable coupons, bundle offers, etc
 * You can even promote up to 4-8 different products to 1 single person with EASE and the best part is, the sale will always keep coming
 * Email every other day
+
+## The Abandonment Funnel
+* 1 hour: send an email like 'Hey you forgot...'
+* 24 hours: 'Do you still want it?'
+* 48 hours: send coupons/ have a funnel in place like tri-funnels
+* If all else fails put them in the promotions email funnel
