@@ -23,4 +23,13 @@
   * Customer photos (what products did they buy, what was the general tone of the post)
   * Influencer posts (how many followers do they have, do they add an affiliate link in their bio, what type of influencers are they working with)
   * What type of content do they like (is it only brand related – customer/influencer posts? Do they like posts within the niche? Do they like a lot of posts? What type of comments do they like?)
- 
+* Add Captions to Instagram
+  * Ask a question that requires an answer. It doesn’t always have to be about the product. For example, if you post a picture of a watch you’re selling, you might ask ‘What time did you see this post at?’ Time is relevant to watches, it can help increase engagement in comments since everyone will have a different response and it’s pretty random capturing people’s attention.
+  * Ask people to tag a friend. This one is my favorite. I’ll usually say something like ‘Tag a friend who’d love this’ and it usually gets really high engagement if the picture is captivating.
+  * Tell people to check out the link in your bio. If you post a product picture, the emphasis should be on directing people to your website. A simple ‘Check out the link in the bio’ is sufficient.
+  * Credit the image source. If you’re reposting someone’s content you should always credit them in the caption. It’s the proper Instagram etiquette for sharing someone’s content.
+* What about hashtags?
+  * I usually add all my hashtags in the first comment. By keeping the caption short and sweet, you avoid having your message cut off while also increasing your level of engagement. Hashtags still show up when they’re included in the first comment.
+* Add Two-Factor Authentication to Prevent Instagram Hacking
+* Talia Koren, Instagram Marketing Consultant, grew her Work Week Lunch account to over 70,000 followers. She recommends this Instagram hack, “One of the most effective things I did to grow was I started making shareable content in my niche. I paid close attention to the content that got reposted, and how I could make my own version of it. That meant I stopped using my iPhone and switched to a real camera. I started using Snapseed to edit my photos on my phone and strategically tagging people who would be interested in sharing my content. And it worked! Now my content gets shared 5-10 times a week on accounts of all sizes, some have over 700k followers.”
+* 
