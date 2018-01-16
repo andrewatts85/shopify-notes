@@ -18,3 +18,9 @@
   * Pop Culture References
   * Sales and Promotions
   * Contests and Giveaways
+* Find out what post your competitors like
+  * Follow them with your personal page and just review their likes
+  * Customer photos (what products did they buy, what was the general tone of the post)
+  * Influencer posts (how many followers do they have, do they add an affiliate link in their bio, what type of influencers are they working with)
+  * What type of content do they like (is it only brand related – customer/influencer posts? Do they like posts within the niche? Do they like a lot of posts? What type of comments do they like?)
+ 
