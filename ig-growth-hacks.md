@@ -32,4 +32,3 @@
   * I usually add all my hashtags in the first comment. By keeping the caption short and sweet, you avoid having your message cut off while also increasing your level of engagement. Hashtags still show up when they’re included in the first comment.
 * Add Two-Factor Authentication to Prevent Instagram Hacking
 * Talia Koren, Instagram Marketing Consultant, grew her Work Week Lunch account to over 70,000 followers. She recommends this Instagram hack, “One of the most effective things I did to grow was I started making shareable content in my niche. I paid close attention to the content that got reposted, and how I could make my own version of it. That meant I stopped using my iPhone and switched to a real camera. I started using Snapseed to edit my photos on my phone and strategically tagging people who would be interested in sharing my content. And it worked! Now my content gets shared 5-10 times a week on accounts of all sizes, some have over 700k followers.”
-* 
