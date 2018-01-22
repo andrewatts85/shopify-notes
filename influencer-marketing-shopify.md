@@ -39,7 +39,7 @@
 * **Make sure your IG account is a business profile because that will be the only way you can link it up with Facebook**
 
 ## How To Make Sales with Influencers
-### 4 Simpole Strategies
+### 4 Simple Strategies
 * **BOGO**
   * Buy one get one free is a great way to jump start your sales.
   * HOWEVER, you are going to train your Facebook pixel to find 'bottom of the barrel' people who are ONLY looking to get the free item or they are purchasing from you because they get something for free
