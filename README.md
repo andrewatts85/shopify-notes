@@ -15,3 +15,4 @@ Useful tips and valuable information for reference.
 * [Influencer Marketing + Shopify](influencer-marketing-shopify.md)
 * [Scaling Your Store](scaling-your-store.md)
 * [Instagram Growth Hacking](ig-growth-hacks.md)
+* [Dropshipping Beginner Checklist](dropshipping-beginner-checklist.md)
