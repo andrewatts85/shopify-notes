@@ -60,6 +60,8 @@
   * Affiliates for your products will do some INCREDIBLE revenue if you load up on affiliates.
   * However if you focus on affiliates this needs to be your business model. Meaning you need to rely and heavily recruit on affiliates to keep you afloat.
   * MANY up and coming stores do this. It's VERY powerful if you use this as a 'side income' rather then solely relying on it. HOWEVER, you can easily pivot once you hit a certain level of sales and want to expand.
+* **Free + Shipping**
+  * Works best for IG per Hayden Bowles
 
 ## Action Plan to $1k/Day 
 1. Find a product
