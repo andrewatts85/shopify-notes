@@ -14,3 +14,4 @@ Useful tips and valuable information for reference.
 * [Shopify Apps](shopify-apps.md)
 * [Influencer Marketing + Shopify](influencer-marketing-shopify.md)
 * [Scaling Your Store](scaling-your-store.md)
+* [Instagram Growth Hacking](ig-growth-hacks.md)
