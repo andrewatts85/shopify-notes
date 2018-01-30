@@ -9,6 +9,7 @@ Useful tips and valuable information for reference.
 * [Supplier Contact Email](notes/supplier-contact-email-template.md)
 * [Ecomhunt Research Tool](notes/ecomhunt-research-tool.md)
 * [Facebook Research Technique](notes/facebook-research-technique.md)
+* [Aliexpress Alternatives](notes/aliexpress-alternatives.md)
 
 # Ecommerce Store
 * [Four Step Blueprint](notes/four-step-blueprint.md)
