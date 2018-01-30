@@ -7,13 +7,13 @@ Useful tips and valuable information for reference.
 * [Find Winning Products](product-research.md)  
 * [Valentines Day Stats 2017](valentines-day.md)
 * [Supplier Contact Email](supplier-contact-email-template.md)
-* [Ecomhunt Research Tool](ecomhunt-research-tool.md)
+* [Ecomhunt Research Tool](notes/ecomhunt-research-tool.md)
 * [Facebook Research Technique](facebook-research-technique.md)
 
 # Shopify Tips
 * [Four Step Blueprint](four-step-blueprint.md)
 * [Perfect Funnel Flow](perfect-funnel-flow.md)
-* [Dropshipping Beginner Checklist](dropshipping-beginner-checklist.md)
+* [Dropshipping Beginner Checklist](notes/dropshipping-beginner-checklist.md)
 * [Shopify Apps](shopify-apps.md)
 
 # Facebook Ads Marketing
