@@ -1,5 +1,5 @@
 # Shopify Apps
-## My Recommended Apps
+## Recommended Apps
 * McAfee Secure
 * Oberlo - import products to your store from Aliexpress
 * Better Shipping - easy way to do shipping rates
