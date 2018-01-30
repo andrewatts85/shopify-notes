@@ -69,3 +69,9 @@
 3. Find 10-20 influencers
 4. Prepare to spend $300 and try to get 2-4 influencers out of that
 5. Run one promotion a day. Track the sales day by day or with a coupon code
+
+## Hayden Bowles Blueprint
+1. Free + Shipping on Instagram
+2. Get 100+ sales on Instagram
+3. Use Pixel data from Facebook to create a LLA for Facebook ads
+4. Retail w/ Discount on Facebook
