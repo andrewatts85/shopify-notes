@@ -1,4 +1,5 @@
 # Fulfilling Orders
+* Go to Aliexpress buy the product
 * Enter customers info
 * Enter **your** phone number
 * Message for the seller:
