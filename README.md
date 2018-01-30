@@ -27,5 +27,5 @@ Useful tips and valuable information for reference.
 * [Influencer Research Links](notes/influencer-research-links.md)
 
 # Scaling
-* [Scaling Your Store](notes/scaling-your-store.md)
+* [Retargeting](notes/retargeting.md)
 * [How to Scale Correctly](notes/how-to-scale-correctly.md)
