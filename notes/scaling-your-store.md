@@ -10,3 +10,8 @@
 * 24 hours: 'Do you still want it?'
 * 48 hours: send coupons/ have a funnel in place like tri-funnels
 * If all else fails put them in the promotions email funnel
+
+## Retargeting w/ Tim Sharp (FREE)
+* Direct mail 1 every 10 days
+* Send abandoned cart email 1 hr after
+* Retarget web traffic w/ FB audience in last 60 days (PAID)
