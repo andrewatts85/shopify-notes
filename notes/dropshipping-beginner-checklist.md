@@ -11,3 +11,8 @@
 5. Pick Products (8-16)
 6. Marketing (Ad copy)
 7. Advertising (FB ads, IG)
+
+## Emails
+* enquiries@
+* sales@
+* billing@
