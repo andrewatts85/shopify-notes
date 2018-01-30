@@ -3,6 +3,11 @@
 * Sell into an already established market
 * Make sure the product is solving a problem or fulfilling a passion
 
+# Types of Products to Avoid
+1. Variations/Sizes
+2. Electronics
+3. Glass
+
 #### Criteria
 
 * [Watchcount](http://www.watchcount.com/) MOST WATCHED ITEMS
@@ -16,7 +21,6 @@
   - dog just pay shipping
 * [FB-Search](http://fb-search.com/search/) Another facebook search tool
 * [Pexda](https://pexda.com/) Winning products already picked out for you (paid)
-
 
 # Finding Suppliers
 #### Suppliers
