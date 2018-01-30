@@ -16,6 +16,7 @@ Useful tips and valuable information for reference.
 * [Dropshipping Beginner Checklist](notes/dropshipping-beginner-checklist.md)
 * [Shopify Apps](notes/shopify-apps.md)
 * [Shipping Models](notes/shipping-models.md)
+* [Fulfilling Orders](notes/fulfilling-orders.md)
 
 # Facebook Ads Marketing
 * [Facebook Ads](notes/facebook-ads.md)
