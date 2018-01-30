@@ -12,6 +12,10 @@
 * If all else fails put them in the promotions email funnel
 
 ## Retargeting w/ Tim Sharp (FREE)
-* Direct mail 1 every 10 days
+* Direct mail once a week
 * Send abandoned cart email 1 hr after
 * Retarget web traffic w/ FB audience in last 60 days (PAID)
+* One in three emails is a sales email. The rest is just content
+* Rule of thumb: Each email is worth $1 of revenue a month
+  * So if you have 5k emails, thats an extra 5k month in revenue
+* **Uncover hidden audiences using words like: foundation, society, association, club, federation**
