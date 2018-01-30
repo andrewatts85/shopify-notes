@@ -25,3 +25,4 @@ Useful tips and valuable information for reference.
 
 # Scaling
 * [Scaling Your Store](scaling-your-store.md)
+* [How to Scale Correctly](how-to-scale-correctly.md)
