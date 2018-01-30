@@ -24,6 +24,7 @@ Useful tips and valuable information for reference.
 # Instagram Influencer Marketing
 * [Influencer Marketing + Shopify](notes/influencer-marketing-shopify.md)
 * [Instagram Growth Hacking](notes/ig-growth-hacks.md)
+* [Influencer Research Links](notes/influencer-research-links.md)
 
 # Scaling
 * [Scaling Your Store](notes/scaling-your-store.md)
