@@ -10,7 +10,7 @@ Useful tips and valuable information for reference.
 * [Ecomhunt Research Tool](notes/ecomhunt-research-tool.md)
 * [Facebook Research Technique](notes/facebook-research-technique.md)
 
-# Store
+# Ecommerce Store
 * [Four Step Blueprint](notes/four-step-blueprint.md)
 * [Perfect Funnel Flow](notes/perfect-funnel-flow.md)
 * [Dropshipping Beginner Checklist](notes/dropshipping-beginner-checklist.md)
