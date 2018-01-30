@@ -3,8 +3,8 @@
 * Increase budget by 1.5x
 * Keep it for another 3 days
 * Did you generate a profit or breakeven?
-* Yes ~ increase budget by another 1.5x
-* No ~ go back to previous budget
+  * Yes ~ increase budget by another 1.5x
+  * No ~ go back to previous budget
 
 # Scale or Kill
 * Run the ad(s) for 3 days
