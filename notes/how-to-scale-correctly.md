@@ -1,4 +1,5 @@
-# How To Scale Correctly w/ Tim Sharp
+# How To Scale Correctly 
+**Tim Sharp -**
 * Dont be tempted to ramp up 100x
 * Increase budget by 1.5x
 * Keep it for another 3 days
@@ -6,7 +7,8 @@
   * Yes ~ increase budget by another 1.5x
   * No ~ go back to previous budget
 
-# Scale or Kill w/ Tim Sharp
+# Scale or Kill 
+**Tim Sharp -**
 * Run the ad(s) for 3 days
 * Objective is to make a profit or breakeven
 * Not all ads will generate sales, maybe 1:10
@@ -14,7 +16,8 @@
 * THE WINNING AD WILL GENERATE $$$
 
 
-# Daily Budget w/ Dan Dasilva
+# Daily Budget 
+**Dan Dasilva -**
 * Ideally you want to start off with $20/day for 5 days
 * HOWEVER you can do $8 for 7 days and get the same data (or close to it)
 * $5 daily budgets is OKAY and they have their place however you want to focus on $8 or $20 to get preliminary data to your ads
