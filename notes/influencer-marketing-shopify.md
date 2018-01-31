@@ -73,5 +73,5 @@
 ## Hayden Bowles Blueprint
 1. Free + Shipping on Instagram
 2. Get 100+ sales on Instagram
-3. Use Pixel data from Facebook to create a LLA for Facebook ads
+3. Use Pixel data from Facebook to create a LAA for Facebook ads
 4. Retail w/ Discount on Facebook
