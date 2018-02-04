@@ -1,6 +1,7 @@
 # Dropshipping Beginner Checklist
 1. Mindset
 2. Shopify Store
+   - Theme: Brooklyn
 3. Apps
    - Oberlo: import products from aliexpress
    - Better Shipping: easy way to do shipping rates
