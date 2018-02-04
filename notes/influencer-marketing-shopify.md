@@ -70,7 +70,7 @@
 4. Prepare to spend $300 and try to get 2-4 influencers out of that
 5. Run one promotion a day. Track the sales day by day or with a coupon code
 
-## Hayden Bowles - Amber Tange - Dan Dasilva Combined Action Plan
+## Hayden Bowles / Amber Tange / Dan Dasilva Combined Action Plan
 1. Free + Shipping on Instagram
 2. Find 10 - 20 influencers
 3. Make sure they have a social engagement rating of 2.5+ 
