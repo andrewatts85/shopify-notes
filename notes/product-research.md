@@ -16,6 +16,12 @@
   - dog just pay shipping
 * [FB-Search](http://fb-search.com/search/) Another facebook search tool
 * [Pexda](https://pexda.com/) Winning products already picked out for you (paid)
+* [Myip.ms](https://myip.ms/browse/sites/1/ipID/23.227.38.32/ipIDii/23.227.38.32)
+  * Quick tip: if you want to get a ton of traffic try this: go to myips.ms, find the big money store
+  * Take that url to [similarweb.com](https://www.similarweb.com/) this will show you where that big money stores traffic comes from 
+  * Follow 1 or 2 links to see the site where the traffic comes from and look at the banner ads
+  * Make a banner and then place the banner ad on the site where big money advertises and bam...you can mack some of their traffic!!!!
+* Shopify Best Sellers Trick: Add **/collections/all?sort_by=best-selling** to back of Shopify URL
 
 # Types of Products to Avoid
 1. Variations/Sizes
