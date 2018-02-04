@@ -21,6 +21,7 @@ Useful tips and valuable information for reference.
 
 # Facebook Ads Marketing
 * [Facebook Ads](notes/facebook-ads.md)
+* [Adcopy and Marketing Inspiration](notes/adcopy-inspiration.md)
 
 # Instagram Influencer Marketing
 * [Influencer Marketing + Shopify](notes/influencer-marketing-shopify.md)
