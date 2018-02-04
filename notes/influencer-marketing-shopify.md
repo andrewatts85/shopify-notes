@@ -72,6 +72,10 @@
 
 ## Hayden Bowles Blueprint
 1. Free + Shipping on Instagram
-2. Get 100+ sales on Instagram
-3. Use Pixel data from Facebook to create a LAA for Facebook ads
-4. Retail w/ Discount on Facebook
+2. Find 10 - 20 influencers
+3. Make sure they have a social engagement rating of 2.5+ 
+4. Scale your influencers: Start at 100k - 300k => 500 - 750k => 1m+
+5. Post 1 ad every 3 hrs for a total of 12 (4 x 3)
+6. Get 100+ sales on Instagram
+7. Use Pixel data from Facebook to create a LAA for Facebook ads
+8. Retail w/ Discount on Facebook
