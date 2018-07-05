@@ -15,6 +15,7 @@ Useful tips and valuable information for reference.
 * [Four Step Blueprint](notes/four-step-blueprint.md)
 * [Perfect Funnel Flow](notes/perfect-funnel-flow.md)
 * [Dropshipping Beginner Checklist](notes/dropshipping-beginner-checklist.md)
+* [Marketing Plan](notes/marketing-plan.md)
 * [Shopify Apps](notes/shopify-apps.md)
 * [Shipping Models](notes/shipping-models.md)
 * [Fulfilling Orders](notes/fulfilling-orders.md)
