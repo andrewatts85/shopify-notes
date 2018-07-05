@@ -30,6 +30,14 @@
   * These are the best for engagement and getting a TON of people to see your page and posts.
   * This has the LOWEST rate of conversion. They are more than likely NOT to purchase from you or they purchase at a VERY low rate.
   * However this DOES NOT mean they will NOT purchase from you!! Keep in mind this is GREAT to build an audience with that you can retarget with inside of Facebook.
+  
+## Influencer Post Should Include
+* 1 feed post
+* 1 story post
+* 1 swipe up
+* link in bio
+
+**Counter offer:** "$$ is what we normally pay.", "We can do $$ but we need a story post, link in bio and regular post."
 
 ## Retarget Instagram on FB
 * **Increase Your ROI**
